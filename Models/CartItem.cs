@@ -4,15 +4,15 @@ namespace ArtMart.Models
 {
     public class CartItem
     {
-        public int Id { get; set; }
+        public string Id { get; set; } = Guid.NewGuid().ToString();
 
         // User who owns the cart item
-        public int UserId { get; set; }
+        public string UserId { get; set; }
         [ForeignKey(nameof(UserId))]
         public User User { get; set; } = null!;
 
         // Product added to cart
-        public int ProductId { get; set; }
+        public string ProductId { get; set; }
         [ForeignKey(nameof(ProductId))]
         public Product Product { get; set; } = null!;
 

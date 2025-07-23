@@ -2,11 +2,11 @@
 {
     public class Rating
     {
-        public int Id { get; set; }
+        public string Id { get; set; } = Guid.NewGuid().ToString();
 
         public string UserId { get; set; } = string.Empty;
 
-        public int ProductId { get; set; }
+        public string ProductId { get; set; }
 
         public int Stars { get; set; } // 1 to 5
 

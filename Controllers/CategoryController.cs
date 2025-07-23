@@ -23,7 +23,7 @@ namespace ArtMart.Controllers
 
         [HttpGet("{id}")]
         [AllowAnonymous]
-        public async Task<IActionResult> GetById(int id)
+        public async Task<IActionResult> GetById(string id)
         {
             var category = await _categoryRepo.GetByIdAsync(id);
             return category == null ? NotFound() : Ok(category);
@@ -34,12 +34,12 @@ namespace ArtMart.Controllers
         public async Task<IActionResult> Add(Category category)
         {
             var newCat = await _categoryRepo.AddAsync(category);
-            return CreatedAtAction(nameof(GetById), new { id = newCat.Id }, newCat);
+            return Ok(newCat);
         }
 
         [HttpDelete("{id}")]
         [Authorize(Roles = "Admin")]
-        public async Task<IActionResult> Delete(int id)
+        public async Task<IActionResult> Delete(string id)
         {
             var result = await _categoryRepo.DeleteAsync(id);
             return result ? NoContent() : NotFound();

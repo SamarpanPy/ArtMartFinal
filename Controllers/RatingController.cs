@@ -22,7 +22,7 @@ namespace ArtMart.Controllers
 
         [Authorize(Roles = "Customer")]
         [HttpPost("{productId}")]
-        public async Task<IActionResult> RateProduct(int productId, [FromBody] RatingDto dto)
+        public async Task<IActionResult> RateProduct(string productId, [FromBody] RatingDto dto)
         {
             if (dto.Stars < 1 || dto.Stars > 5)
                 return BadRequest("Stars must be between 1 and 5");
@@ -32,14 +32,14 @@ namespace ArtMart.Controllers
         }
 
         [HttpGet("{productId}")]
-        public async Task<IActionResult> GetRatings(int productId)
+        public async Task<IActionResult> GetRatings(string productId)
         {
             var ratings = await _ratingRepo.GetRatingsForProductAsync(productId);
             return Ok(ratings);
         }
 
         [HttpGet("{productId}/average")]
-        public async Task<IActionResult> GetAverageRating(int productId)
+        public async Task<IActionResult> GetAverageRating(string productId)
         {
             var avg = await _ratingRepo.GetAverageRatingAsync(productId);
             return Ok(new { averageRating = Math.Round(avg, 2) });

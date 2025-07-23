@@ -14,7 +14,7 @@ namespace ArtMart.Repositories
             _context = context;
         }
 
-        public async Task RateProductAsync(string userId, int productId, int stars, string? comment)
+        public async Task RateProductAsync(string userId, string productId, int stars, string? comment)
         {
             var existingRating = await _context.Ratings
                 .FirstOrDefaultAsync(r => r.UserId == userId && r.ProductId == productId);
@@ -41,7 +41,7 @@ namespace ArtMart.Repositories
             await _context.SaveChangesAsync();
         }
 
-        public async Task<List<Rating>> GetRatingsForProductAsync(int productId)
+        public async Task<List<Rating>> GetRatingsForProductAsync(string productId)
         {
             return await _context.Ratings
                 .Where(r => r.ProductId == productId)
@@ -49,7 +49,7 @@ namespace ArtMart.Repositories
                 .ToListAsync();
         }
 
-        public async Task<double> GetAverageRatingAsync(int productId)
+        public async Task<double> GetAverageRatingAsync(string productId)
         {
             return await _context.Ratings
                 .Where(r => r.ProductId == productId)

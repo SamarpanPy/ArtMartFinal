@@ -31,7 +31,7 @@ namespace ArtMart.Controllers
         public async Task<IActionResult> GetCart()
         {
             var userId = GetUserId();
-            var items = await _cartRepo.GetCartItemsByUserAsync(userId);
+            var items = await _cartRepo.GetCartItemsByUserAsync(userId.ToString());
             return Ok(items);
         }
 
@@ -42,7 +42,7 @@ namespace ArtMart.Controllers
 
             var cartItem = new CartItem
             {
-                UserId = userId,
+                UserId = userId.ToString(),
                 ProductId = dto.ProductId,
                 Quantity = dto.Quantity
             };
@@ -52,10 +52,10 @@ namespace ArtMart.Controllers
         }
 
         [HttpDelete("{productId}")]
-        public async Task<IActionResult> RemoveFromCart(int productId)
+        public async Task<IActionResult> RemoveFromCart(string productId)
         {
             var userId = GetUserId();
-            var removed = await _cartRepo.RemoveCartItemAsync(userId, productId);
+            var removed = await _cartRepo.RemoveCartItemAsync(userId.ToString(), productId);
             if (!removed) return NotFound();
 
             return NoContent();
@@ -65,7 +65,7 @@ namespace ArtMart.Controllers
         public async Task<IActionResult> ClearCart()
         {
             var userId = GetUserId();
-            await _cartRepo.ClearCartAsync(userId);
+            await _cartRepo.ClearCartAsync(userId.ToString());
             return NoContent();
         }
     }

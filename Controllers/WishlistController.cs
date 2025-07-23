@@ -23,14 +23,14 @@ namespace ArtMart.Controllers
         }
 
         [HttpPost("{productId}")]
-        public async Task<IActionResult> AddToWishlist(int productId)
+        public async Task<IActionResult> AddToWishlist(string productId)
         {
             await _wishlistRepo.AddToWishlistAsync(GetUserId(), productId);
             return Ok(new { message = "Product added to wishlist." });
         }
 
         [HttpDelete("{productId}")]
-        public async Task<IActionResult> RemoveFromWishlist(int productId)
+        public async Task<IActionResult> RemoveFromWishlist(string productId)
         {
             await _wishlistRepo.RemoveFromWishlistAsync(GetUserId(), productId);
             return Ok(new { message = "Product removed from wishlist." });

@@ -14,7 +14,7 @@ namespace ArtMart.Repositories
             _context = context;
         }
 
-        public async Task<IEnumerable<CartItem>> GetCartItemsByUserAsync(int userId)
+        public async Task<IEnumerable<CartItem>> GetCartItemsByUserAsync(string userId)
         {
             return await _context.CartItems
                 .Include(ci => ci.Product)
@@ -23,7 +23,7 @@ namespace ArtMart.Repositories
                 .ToListAsync();
         }
 
-        public async Task<CartItem?> GetCartItemAsync(int userId, int productId)
+        public async Task<CartItem?> GetCartItemAsync(string userId, string productId)
         {
             return await _context.CartItems
                 .FirstOrDefaultAsync(ci => ci.UserId == userId && ci.ProductId == productId);
@@ -44,7 +44,7 @@ namespace ArtMart.Repositories
             return cartItem;
         }
 
-        public async Task<bool> RemoveCartItemAsync(int userId, int productId)
+        public async Task<bool> RemoveCartItemAsync(string userId, string productId)
         {
             var existing = await GetCartItemAsync(userId, productId);
             if (existing == null) return false;
@@ -54,7 +54,7 @@ namespace ArtMart.Repositories
             return true;
         }
 
-        public async Task<bool> ClearCartAsync(int userId)
+        public async Task<bool> ClearCartAsync(string userId)
         {
             var items = _context.CartItems.Where(ci => ci.UserId == userId);
             _context.CartItems.RemoveRange(items);

@@ -1,54 +1,146 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\samar\\source\\repos\\ArtMart\\",
+  "WorkspaceRootPath": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\repositories\\ratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:repositories\\ratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmart\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmart\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmart\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmart\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmart\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmart\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmart\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmart\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmart\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmart\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\repositories\\wishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:repositories\\wishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\interfaces\\iwishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:interfaces\\iwishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\interfaces\\iratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:interfaces\\iratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\dtos\\addtocart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:dtos\\addtocart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\models\\wishlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:models\\wishlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmart\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\dtos\\authdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:dtos\\authdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\dtos\\authdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:dtos\\authdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samar\\source\\repos\\artmartfinal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +150,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -67,158 +159,428 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:48:00.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:30:07.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WishlistController.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Controllers\\WishlistController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WishlistController.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Controllers\\WishlistController.cs",
+              "RelativeToolTip": "Controllers\\WishlistController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:25:15.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RatingController.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Controllers\\RatingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RatingController.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Controllers\\RatingController.cs",
+              "RelativeToolTip": "Controllers\\RatingController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAUwCkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:25:03.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IWishlistRepository.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Interfaces\\IWishlistRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IWishlistRepository.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Interfaces\\IWishlistRepository.cs",
+              "RelativeToolTip": "Interfaces\\IWishlistRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:24:38.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WishlistRepository.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Repositories\\WishlistRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\WishlistRepository.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Repositories\\WishlistRepository.cs",
+              "RelativeToolTip": "Repositories\\WishlistRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAcwDAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:24:31.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RatingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Repositories\\RatingRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\RatingRepository.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Repositories\\RatingRepository.cs",
+              "RelativeToolTip": "Repositories\\RatingRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:23:36.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Models\\Rating.cs",
+              "RelativeDocumentMoniker": "Models\\Rating.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Models\\Rating.cs",
+              "RelativeToolTip": "Models\\Rating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:18:44.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WishListItem.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Models\\WishListItem.cs",
+              "RelativeDocumentMoniker": "Models\\WishListItem.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Models\\WishListItem.cs",
+              "RelativeToolTip": "Models\\WishListItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:18:38.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:17:14.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRatingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Interfaces\\IRatingRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IRatingRepository.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Interfaces\\IRatingRepository.cs",
+              "RelativeToolTip": "Interfaces\\IRatingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:16:41.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddToCart.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\DTOs\\AddToCart.cs",
+              "RelativeDocumentMoniker": "DTOs\\AddToCart.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\DTOs\\AddToCart.cs",
+              "RelativeToolTip": "DTOs\\AddToCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:16:32.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\DTOs\\AuthDTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AuthDTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\DTOs\\AuthDTOs\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\AuthDTOs\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:16:31.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\DTOs\\AuthDTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AuthDTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\DTOs\\AuthDTOs\\RegisterDto.cs",
+              "RelativeToolTip": "DTOs\\AuthDTOs\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:13:43.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:13:05.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:12:43.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Interfaces\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICartRepository.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Interfaces\\ICartRepository.cs",
+              "RelativeToolTip": "Interfaces\\ICartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:08:32.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAlwEMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:03:24.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Repositories\\CartRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Repositories\\CartRepository.cs",
+              "RelativeToolTip": "Repositories\\CartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:03:06.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Models\\CartItem.cs",
+              "RelativeToolTip": "Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:02:08.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "DTOs\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:01:02.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAawBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:00:34.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:00:15.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T16:58:15.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Products.cs",
-              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMart\\Models\\Products.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Models\\Products.cs",
               "RelativeDocumentMoniker": "Models\\Products.cs",
-              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMart\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Models\\Products.cs",
               "RelativeToolTip": "Models\\Products.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T16:14:24.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMart\\Models\\Category.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMart\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Models\\Category.cs",
               "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T16:13:05.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T16:13:05.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAUwCMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T16:11:33.076Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMart\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMart\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T16:11:33.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMart\\Repositories\\CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Repositories\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMart\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Repositories\\CategoryRepository.cs",
               "RelativeToolTip": "Repositories\\CategoryRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T16:11:18.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMart\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMart\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAnwFYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T16:08:34.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 33,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMart\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMart\\Program.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAwD0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T16:07:31.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T16:07:31.041Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 29,
               "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMart\\Controllers\\OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMart\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Controllers\\OrderController.cs",
               "RelativeToolTip": "Controllers\\OrderController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T16:07:23.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T16:07:23.496Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 30,
               "Title": "OrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMart\\Repositories\\OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Repositories\\OrderRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\OrderRepository.cs",
-              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMart\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Repositories\\OrderRepository.cs",
               "RelativeToolTip": "Repositories\\OrderRepository.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAgwDYAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBsAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T16:06:59.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T16:06:59.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 27,
               "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMart\\Interfaces\\IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Interfaces\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\IOrderRepository.cs",
-              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMart\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Interfaces\\IOrderRepository.cs",
               "RelativeToolTip": "Interfaces\\IOrderRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T16:06:46.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T16:06:46.093Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 34,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMart\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMart\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAzwA8AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T16:05:33.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T16:05:33.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 23,
               "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMart\\Models\\OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Models\\OrderItem.cs",
               "RelativeDocumentMoniker": "Models\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMart\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\Models\\OrderItem.cs",
               "RelativeToolTip": "Models\\OrderItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T16:05:02.193Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\ArtMart\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "Models\\Order.cs",
-              "ToolTip": "C:\\Users\\samar\\source\\repos\\ArtMart\\Models\\Order.cs",
-              "RelativeToolTip": "Models\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T16:04:39.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T16:05:02.193Z"
             }
           ]
         }

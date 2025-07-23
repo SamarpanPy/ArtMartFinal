@@ -14,7 +14,7 @@ namespace ArtMart.Repositories
             _context = context;
         }
 
-        public async Task AddToWishlistAsync(string userId, int productId)
+        public async Task AddToWishlistAsync(string userId, string productId)
         {
             var alreadyExists = await _context.WishlistItems
                 .AnyAsync(w => w.UserId == userId && w.ProductId == productId);
@@ -32,7 +32,7 @@ namespace ArtMart.Repositories
             }
         }
 
-        public async Task RemoveFromWishlistAsync(string userId, int productId)
+        public async Task RemoveFromWishlistAsync(string userId, string productId)
         {
             var item = await _context.WishlistItems
                 .FirstOrDefaultAsync(w => w.UserId == userId && w.ProductId == productId);

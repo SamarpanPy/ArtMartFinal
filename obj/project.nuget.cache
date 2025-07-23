@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zSEN9DYJskU=",
+  "dgSpecHash": "cZkUgxsVwos=",
   "success": true,
-  "projectFilePath": "C:\\Users\\samar\\source\\repos\\ArtMart\\ArtMart.csproj",
+  "projectFilePath": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\ArtMart.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samar\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.17\\microsoft.aspnetcore.authentication.jwtbearer.8.0.17.nupkg.sha512",
     "C:\\Users\\samar\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.7\\microsoft.entityframeworkcore.9.0.7.nupkg.sha512",

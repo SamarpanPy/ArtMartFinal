@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samar\\source\\repos\\ArtMart\\ArtMart.csproj": {}
+    "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\ArtMart.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samar\\source\\repos\\ArtMart\\ArtMart.csproj": {
+    "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\ArtMart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samar\\source\\repos\\ArtMart\\ArtMart.csproj",
+        "projectUniqueName": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\ArtMart.csproj",
         "projectName": "ArtMart",
-        "projectPath": "C:\\Users\\samar\\source\\repos\\ArtMart\\ArtMart.csproj",
+        "projectPath": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\ArtMart.csproj",
         "packagesPath": "C:\\Users\\samar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samar\\source\\repos\\ArtMart\\obj\\",
+        "outputPath": "C:\\Users\\samar\\source\\repos\\ArtMartFinal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

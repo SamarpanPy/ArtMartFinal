@@ -19,19 +19,22 @@ namespace ArtMart.Repositories
             return await _context.Products.OrderByDescending(p => p.CreatedAt).ToListAsync();
         }
 
-        public async Task<Product?> GetByIdAsync(int id)
+        public async Task<Product?> GetByIdAsync(string id)
         {
-            return await _context.Products.FindAsync(id);
+            var result = await _context.Products.Include(x => x.Category).FirstOrDefaultAsync(x => x.Id == id);
+            return result;
         }
 
         public async Task<Product> CreateAsync(Product product)
         {
-            _context.Products.Add(product);
+            
+            var y =_context.Products.Add(product);
             await _context.SaveChangesAsync();
-            return product;
+            var result = await _context.Products.Include(x => x.Category).FirstOrDefaultAsync(x => x.Id== y.Entity.Id);
+            return result;
         }
 
-        public async Task<Product?> UpdateAsync(int id, Product updatedProduct)
+        public async Task<Product?> UpdateAsync(string id, Product updatedProduct)
         {
             var existing = await _context.Products.FindAsync(id);
             if (existing == null) return null;
@@ -46,7 +49,7 @@ namespace ArtMart.Repositories
             return existing;
         }
 
-        public async Task<bool> DeleteAsync(int id)
+        public async Task<bool> DeleteAsync(string id)
         {
             var product = await _context.Products.FindAsync(id);
             if (product == null) return false;

@@ -19,19 +19,20 @@ namespace ArtMart.Repositories
             return await _context.Categories.ToListAsync();
         }
 
-        public async Task<Category?> GetByIdAsync(int id)
+        public async Task<Category?> GetByIdAsync(string id)
         {
             return await _context.Categories.FindAsync(id);
         }
 
         public async Task<Category> AddAsync(Category category)
         {
-            _context.Categories.Add(category);
+            category.Id = Guid.NewGuid().ToString();
+            var x = _context.Categories.Add(category);
             await _context.SaveChangesAsync();
-            return category;
+            return x.Entity;
         }
 
-        public async Task<bool> DeleteAsync(int id)
+        public async Task<bool> DeleteAsync(string id)
         {
             var category = await _context.Categories.FindAsync(id);
             if (category == null) return false;

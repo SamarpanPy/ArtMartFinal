@@ -2,8 +2,8 @@
 {
     public class WishlistItem
     {
-        public int Id { get; set; }
+        public string Id { get; set; } = Guid.NewGuid().ToString();
         public string UserId { get; set; } = string.Empty;
-        public int ProductId { get; set; }
+        public string ProductId { get; set; }
     }
 }

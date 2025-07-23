@@ -29,7 +29,7 @@ namespace ArtMart.Controllers
         // Public: Get by Id
         [HttpGet("{id}")]
         [AllowAnonymous]
-        public async Task<IActionResult> GetById(int id)
+        public async Task<IActionResult> GetById(string id)
         {
             var product = await _repo.GetByIdAsync(id);
             if (product == null) return NotFound();
@@ -47,7 +47,7 @@ namespace ArtMart.Controllers
                 Description = dto.Description,
                 Price = dto.Price,
                 ImageUrl = dto.ImageUrl,
-                Category = dto.Category
+                CategoryId = dto.CategoryId
             };
 
             var created = await _repo.CreateAsync(product);
@@ -57,7 +57,7 @@ namespace ArtMart.Controllers
         // Admin Only: Update
         [HttpPut("{id}")]
         [Authorize(Roles = "Admin")]
-        public async Task<IActionResult> Update(int id, [FromBody] ProductDto dto)
+        public async Task<IActionResult> Update(string id, [FromBody] ProductDto dto)
         {
             var updated = new Product
             {
@@ -65,7 +65,7 @@ namespace ArtMart.Controllers
                 Description = dto.Description,
                 Price = dto.Price,
                 ImageUrl = dto.ImageUrl,
-                Category = dto.Category
+                CategoryId = dto.CategoryId
             };
 
             var result = await _repo.UpdateAsync(id, updated);
@@ -77,7 +77,7 @@ namespace ArtMart.Controllers
         // Admin Only: Delete
         [HttpDelete("{id}")]
         [Authorize(Roles = "Admin")]
-        public async Task<IActionResult> Delete(int id)
+        public async Task<IActionResult> Delete(string id)
         {
             var success = await _repo.DeleteAsync(id);
             return success ? NoContent() : NotFound();
