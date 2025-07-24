@@ -46,14 +46,15 @@ namespace ArtMart.Repositories
 
         public async Task<List<Product>> GetWishlistItemsAsync(string userId)
         {
+
             var productIds = await _context.WishlistItems
                 .Where(w => w.UserId == userId)
                 .Select(w => w.ProductId)
                 .ToListAsync();
-
-            return await _context.Products
-                .Where(p => productIds.Contains(p.Id))
+            var result = await _context.Products.Include(x => x.Category).Where(p => productIds.Contains(p.Id))
                 .ToListAsync();
+            return result;
+
         }
     }
 }

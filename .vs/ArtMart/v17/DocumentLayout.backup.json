@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\samarpanp\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ArtMartFinal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samarpanp\\onedrive - infinite computer solutions (india) limited\\desktop\\artmartfinal\\repositories\\wishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:repositories\\wishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samarpanp\\onedrive - infinite computer solutions (india) limited\\desktop\\artmartfinal\\repositories\\ratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:repositories\\ratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samarpanp\\onedrive - infinite computer solutions (india) limited\\desktop\\artmartfinal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +13,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samarpanp\\onedrive - infinite computer solutions (india) limited\\desktop\\artmartfinal\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samarpanp\\onedrive - infinite computer solutions (india) limited\\desktop\\artmartfinal\\repositories\\ratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:repositories\\ratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samarpanp\\onedrive - infinite computer solutions (india) limited\\desktop\\artmartfinal\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,6 +37,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samarpanp\\onedrive - infinite computer solutions (india) limited\\desktop\\artmartfinal\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samarpanp\\onedrive - infinite computer solutions (india) limited\\desktop\\artmartfinal\\repositories\\wishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|solutionrelative:repositories\\wishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49D370C5-B9C3-4FAE-B0BE-A5C0092031BF}|ArtMart.csproj|c:\\users\\samarpanp\\onedrive - infinite computer solutions (india) limited\\desktop\\artmartfinal\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -150,8 +150,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\samarpanp\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ArtMartFinal\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\samarpanp\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ArtMartFinal\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:30:07.777Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 11,
@@ -190,26 +202,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "WishlistRepository.cs",
               "DocumentMoniker": "C:\\Users\\samarpanp\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ArtMartFinal\\Repositories\\WishlistRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\WishlistRepository.cs",
               "ToolTip": "C:\\Users\\samarpanp\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ArtMartFinal\\Repositories\\WishlistRepository.cs",
               "RelativeToolTip": "Repositories\\WishlistRepository.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAcwCgAAAANAAAAAAAAAA==",
+              "ViewState": "AQIAABgAAAAAAAAAAAAcwDAAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T17:24:31.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T17:24:31.316Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "RatingRepository.cs",
               "DocumentMoniker": "C:\\Users\\samarpanp\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ArtMartFinal\\Repositories\\RatingRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\RatingRepository.cs",
               "ToolTip": "C:\\Users\\samarpanp\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ArtMartFinal\\Repositories\\RatingRepository.cs",
               "RelativeToolTip": "Repositories\\RatingRepository.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T17:23:36.405Z",
               "EditorCaption": ""
@@ -222,10 +233,9 @@
               "RelativeDocumentMoniker": "Interfaces\\IProductRepository.cs",
               "ToolTip": "C:\\Users\\samarpanp\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ArtMartFinal\\Interfaces\\IProductRepository.cs",
               "RelativeToolTip": "Interfaces\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAqAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T17:48:00.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T17:48:00.232Z"
             },
             {
               "$type": "Document",
@@ -262,31 +272,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T17:17:14.153Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\samarpanp\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ArtMartFinal\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\samarpanp\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ArtMartFinal\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T16:58:15.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\samarpanp\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ArtMartFinal\\Interfaces\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "Interfaces\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\samarpanp\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ArtMartFinal\\Interfaces\\ICategoryRepository.cs",
-              "RelativeToolTip": "Interfaces\\ICategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T17:30:07.777Z"
             },
             {
               "$type": "Document",
@@ -446,7 +431,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\samarpanp\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ArtMartFinal\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\samarpanp\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ArtMartFinal\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T16:58:15.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Products.cs",
               "DocumentMoniker": "C:\\Users\\samarpanp\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ArtMartFinal\\Models\\Products.cs",
               "RelativeDocumentMoniker": "Models\\Products.cs",
@@ -458,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\samarpanp\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ArtMartFinal\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
@@ -470,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\samarpanp\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ArtMartFinal\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
@@ -482,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\samarpanp\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ArtMartFinal\\Repositories\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
@@ -494,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\samarpanp\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ArtMartFinal\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",

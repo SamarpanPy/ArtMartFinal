@@ -1,11 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "tNthK4lwSE8+UmtQS7f3Df20lyNXuXJqCFwv1mqt3nY=",
-  "Source": "ArtMart",
-  "BasePath": "_content/ArtMart",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
-}
+{"Version":1,"Hash":"v3a3RRBvqh614cPyTdaSZrRg6nmWnkMoS7bHiug12dw=","Source":"ArtMart","BasePath":"_content/ArtMart","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}

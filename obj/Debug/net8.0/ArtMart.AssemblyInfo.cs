@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArtMart")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea22a35822a51ef89c1324b21ed137480d0aa4fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76081c27ce8b29d067cb972ea357a3a28f8c4b91")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArtMart")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArtMart")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
